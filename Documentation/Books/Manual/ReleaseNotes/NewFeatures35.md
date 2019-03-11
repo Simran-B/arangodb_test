@@ -1,6 +1,8 @@
 Features and Improvements in ArangoDB 3.5
 =========================================
 
+<!-- FOO BAR -->
+
 The following list shows in detail which features have been added or improved in
 ArangoDB 3.5. ArangoDB 3.5 also contains several bug fixes that are not listed
 here.
