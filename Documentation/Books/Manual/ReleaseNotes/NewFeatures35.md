@@ -86,7 +86,6 @@ work as before.
 
 Should you be building an index in the background you cannot rename or drop the collection.
 These operations will block until the index creation is finished.
-{% endhint %}
 
 After an interrupted index build (i.e. due to a server crash) the partially built index
 will the removed. In the ArangoDB cluster the index might then be automatically recreated 
