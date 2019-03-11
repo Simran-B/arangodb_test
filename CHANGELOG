@@ -1,6 +1,8 @@
 devel
 -----
 
+MODIFY DEVEL BRANCH
+
 * fix compation behaviour of followers
 
 * added "random" masking to mask any data type, added wildcard masking
